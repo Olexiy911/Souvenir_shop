@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="souvenir_shop.souvenir_shop.main" target="1.8" />
+      <module name="souvenir_shop.souvenir_shop.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
